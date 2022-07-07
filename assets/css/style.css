@@ -10,7 +10,7 @@
     font-size: 62.5%;
 }
 
-body {
+.body {
     background: #40a3b9;
     color: var(--grey);
     margin: 0;
@@ -51,7 +51,7 @@ header h3 {
     text-align: center;
 }
 
-p {
+.hook {
     color: var(--secondary);
     padding-bottom: 20px;
     text-align: center;
